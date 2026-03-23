@@ -85,13 +85,15 @@ Puedes personalizar los siguientes elementos:
 
 ## 📞 Contacto
 
-- **Teléfono**: +57 314 8451320
-- **Sitio Web**: JFrivas.
+- **Teléfono**: +57 3148453649
+- **Sitio Web**: https://jfrivasingcode.github.io/acerca-de-john-fredy-rivas/
+- **Correo Electrónico**: fredyrivas0714@gmail.com
+
 
 ## 📄 Licencia
 
-Este proyecto está disponible para uso personal y comercial.
+Este proyecto está disponible para uso personal.
 
 ---
 
-**Desarrollado con ❤️ para marketing digital profesional**
+**Desarrollado con ❤️ por JFrivas**
